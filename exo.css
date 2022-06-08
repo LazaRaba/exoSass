@@ -1,0 +1,22 @@
+h1, h3 {
+  color: green;
+  font-family: "Roboto", sans-serif;
+}
+
+.text {
+  color: rgb(47, 44, 44);
+}
+.text span {
+  color: rgb(190, 9, 9);
+  font-style: italic;
+}
+
+div {
+  background-color: beige;
+}
+div .text2 {
+  font-size: 20px;
+}
+div :hover {
+  color: green;
+}/*# sourceMappingURL=exo.css.map */
